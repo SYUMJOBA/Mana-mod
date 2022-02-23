@@ -1,0 +1,108 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ManaDust",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_dust"
+    },
+    {
+      "name": "ManaStar",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_star"
+    },
+    {
+      "name": "ManaArmor",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ManaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_armor_helmet_recipe"
+    },
+    {
+      "name": "ManaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_armor_body_recipe"
+    },
+    {
+      "name": "ManaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_armor_leggings_recipe"
+    },
+    {
+      "name": "ManaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mana_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mana_mod.mana_armor_helmet": "Mana Helmet",
+      "item.mana_mod.mana_dust": "Mana Dust",
+      "item.mana_mod.mana_armor_boots": "Mana Boots",
+      "item.mana_mod.mana_star": "Mana Star",
+      "item.mana_mod.mana_armor_chestplate": "Mana Chestplate",
+      "item.mana_mod.mana_armor_leggings": "Mana Leggings"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mana_mod",
+    "modName": "a mana mod",
+    "version": "1.0.0",
+    "author": "syumj, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.manamod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100351610
+}
